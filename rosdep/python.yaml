@@ -2517,3 +2517,7 @@ xdot:
   debian: [xdot]
   fedora: [python-xdot]
   ubuntu: [xdot]
+pika:
+  ubuntu:
+    pip:
+      packages: [pika]
